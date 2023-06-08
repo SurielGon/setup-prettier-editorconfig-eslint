@@ -1,0 +1,27 @@
+{
+  "name": "setup-prettier-editorconfig-eslint",
+  "version": "1.0.0",
+  "description": "Quick configuration for prettier, editorconfig and eslint",
+  "files": [
+    ".eslintrc.json",
+    ".editorconfig",
+    ".prettierrc"
+  ],
+  "keywords": [
+    "prettier",
+    "editorconfig",
+    "eslint",
+    "config",
+    "setup"
+  ],
+  "author": "Suriel Gonçalves",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^8.42.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-config-standard": "^17.1.0",
+    "prettier": "^2.8.8",
+    "prettier-plugin-organize-imports": "^3.2.2"
+  }
+}
