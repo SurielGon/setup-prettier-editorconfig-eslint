@@ -15,13 +15,13 @@ Make sure you have the correct extension/plugins for your editor
 
 Changes your editor settings!
 
-Oficial Website: https://eslint.org/
+Oficial Website: https://editorconfig.org/
 
 # Prettier (Do you prefer Tabs or Spaces?)
 
 Will format your code.
 
-Oficial Website: https://eslint.org/
+Oficial Website: https://prettier.io/
 
 # Eslint (It will Statically analyze your code)
 
